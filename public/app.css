@@ -1,0 +1,44 @@
+#about {
+    margin-left: 20% !important;
+}
+
+#info{
+    padding-left: 40px;
+}
+.container {
+padding-bottom: 40px !important;
+
+}
+.exhibit {
+    height: 800px !important;
+}
+iframe{
+    float:left;
+    padding-right:20px !important;
+}
+body{
+    background-color: lavender;
+}
+
+.navbar{
+    background-color: #9696fe	 !important;
+
+}
+footer {
+    height: 35vh;
+    background-color: #9696fe	 !important;
+}
+
+.nav{
+    height: 13vh;
+    background-color: #9696fe;
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav p{
+    font-size: 1.3em;
+    margin-top:18px;
+    color: darkblue;
+}
+ 
